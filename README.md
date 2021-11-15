@@ -28,5 +28,6 @@ Compare it to the plain file structure of this documents:
 ## License & Contributing
 
 Copyright (c) 2014 Ivan Bozhanov (http://vakata.com)
+Modified work Copyright (c) 2018 Gerald Kogler (http://go.yuri.at)
 
 Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
